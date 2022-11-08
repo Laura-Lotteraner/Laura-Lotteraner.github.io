@@ -13,7 +13,7 @@ website: laura-lotteraner.github.io
 
 # Dark Mode (true/false/never)
 darkmode: false
-color: turquoise
+bg: turquoise
 
 # Social links
 twitter_username: laura_aus_wien
@@ -78,7 +78,7 @@ content:
     content:
       - layout: left
         title: University of Vienna
-        link: univie.ac.at
+        link: https://edge.univie.ac.at/people/laura-lotteraner
         # link_text: boringcompany.com
         sub_title: Research Assistant
         caption: November 2021 - Present
