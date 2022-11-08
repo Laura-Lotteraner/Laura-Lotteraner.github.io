@@ -98,17 +98,30 @@ content:
         description: | # this will include new lines to allow paragraphs
           Description
 
+  - title: Publications # Title for the section
+    layout: list # Type of content section (list/text)
+    content:
+      - layout: left
+        title: Publication Title
+        link: link to journal
+        caption: Year
+        sub_title: Journal
+        quote: >
+          Something fancy I did.
+        description: | # this will include new lines to allow paragraphs
+          Abstract
+
   - title: A Little More About Me
     layout: text
     content: | # this will include new lines to allow paragraphs
-      Alongside my interests in networks and software engineering some of my other interests and hobbies are:
-      - Rock climbing
-      - Gaming
-      - Knitting
-      - [Becoming a ninja](https://www.youtube.com/watch?v=vtg4o__aRMg)
+      Other interests I have:
+      - Yoga (practicing and teaching)
+      - Hiking 
+      - Reading
+    # - [Becoming a ninja](https://www.youtube.com/watch?v=vtg4o__aRMg)
 
-      Look at this cool image  
-      ![Trees](/modern-resume-theme/images/landscape-trees.jpg "Trees")
+      # Look at this cool image
+      # ![Trees](/modern-resume-theme/images/landscape-trees.jpg "Trees")
 
 # Footer
 footer_show_references: true
