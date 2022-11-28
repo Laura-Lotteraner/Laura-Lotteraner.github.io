@@ -57,10 +57,11 @@ content:
   - title: Projects # Title for the section
     layout: list # Type of content section (list/text)
     content:
-      - layout: top-middle
+      - layout: left
         title: Vienna ClimateChallenge Hackathon
-        # link: github.com/sproogen
-        # link_text: Project Website
+        link:
+          https://blog.univie.ac.at/en/life-at-uni/hackathon-2022-the-vienna-climate-challenge-from-idea-to-prototype-in-three-days/
+        link_text: UniVienna Blogpost
         # additional_links:
           # - title:  sproogen/modern-resume-theme
           #   icon: fab fa-github
@@ -70,8 +71,6 @@ content:
           #   url: Link to project (eg. sproogen.github.io/modern-resume-theme)
         quote: >
           This is probably one of the greatest apps ever created, if you don't agree you're probably wrong.
-        link:
-          https://blog.univie.ac.at/en/life-at-uni/hackathon-2022-the-vienna-climate-challenge-from-idea-to-prototype-in-three-days/
         description: | # this will include new lines to allow paragraphs
           Description
 
