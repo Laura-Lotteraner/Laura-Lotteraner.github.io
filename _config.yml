@@ -70,6 +70,8 @@ content:
           #   url: Link to project (eg. sproogen.github.io/modern-resume-theme)
         quote: >
           This is probably one of the greatest apps ever created, if you don't agree you're probably wrong.
+        link:
+          https://blog.univie.ac.at/en/life-at-uni/hackathon-2022-the-vienna-climate-challenge-from-idea-to-prototype-in-three-days/
         description: | # this will include new lines to allow paragraphs
           Description
 
