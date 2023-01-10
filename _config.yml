@@ -116,12 +116,17 @@ content:
       - layout: left
         title: Publication Title
         link: link to journal
+        additional_links:
+          - title:  github repository
+            icon: images/GitHub-Mark.png
+            url: github.com/Laura-Lotteraner/PMT-Sorption
+
         caption: Year
         sub_title: Journal
         quote: >
           Something fancy I did.
         description: | # this will include new lines to allow paragraphs
-          Abstract
+          not yet published, but my code is already partly available on GitHub
 
   - title: A Little More About Me
     layout: text
