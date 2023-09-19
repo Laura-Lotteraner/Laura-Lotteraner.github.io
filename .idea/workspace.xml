@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="3cd77a3d-cfde-4055-b4d1-f950ac5b2b04" name="Changes" comment="update" />
+    <list default="true" id="3cd77a3d-cfde-4055-b4d1-f950ac5b2b04" name="Changes" comment="publication" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -38,7 +38,8 @@
       <workItem from="1669628891699" duration="319000" />
       <workItem from="1673343982669" duration="1131000" />
       <workItem from="1684160836288" duration="55000" />
-      <workItem from="1695121476759" duration="554000" />
+      <workItem from="1695121476759" duration="1151000" />
+      <workItem from="1695125396934" duration="443000" />
     </task>
     <servers />
   </component>
