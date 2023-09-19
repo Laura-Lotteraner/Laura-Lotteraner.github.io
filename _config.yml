@@ -86,7 +86,9 @@ content:
         quote: >
           Bringing together Data Science and the Environmental Sciences.
         description: | # this will include new lines to allow paragraphs
-            Description
+          I am working as a predoctoral research assistant at the Research Platform The Challenges of Urban Futures at the University of Vienna. 
+          My doctoral research is carried out at the intersection of data science and environmental sciences, ranging from visualization in groundwater modelling to statistical analysis of pharmaceutical pollution data. 
+          My main research interest is explaining human influence on our environment using data that is available from a variety of sources.
       - layout: left
         title: Kapsch TrafficCom AG
         link: kapsch.net
@@ -108,7 +110,6 @@ content:
         quote: >
           Urban Futures Platform
         description: | # this will include new lines to allow paragraphs
-          Description
 
   - title: Publications # Title for the section
     layout: list # Type of content section (list/text)
