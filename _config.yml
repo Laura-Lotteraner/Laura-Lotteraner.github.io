@@ -114,18 +114,13 @@ content:
     layout: list # Type of content section (list/text)
     content:
       - layout: left
-        title: Publication Title
-        link: link to journal
-        additional_links:
-          - title:  github repository
-            icon: images/GitHub-Mark.png
-            url: github.com/Laura-Lotteraner/PMT-Sorption
-        caption: Year
-        sub_title: Journal
-        quote: >
-          Something fancy I did.
+        title: The Challenge of Interdisciplinarity at the Intersection of Groundwater Management and Visualization Research
+        link: https://ieeexplore.ieee.org/document/10241969
+        caption: 2023
+        sub_title: IEEE Computer Graphics and Applications
+        quote: Still, outside the framework of a design study, our study was very informative and raised several interesting questions to be answered in future research.
         description: | # this will include new lines to allow paragraphs
-          not yet published, but my code is already partly available on GitHub
+          This design study presents an analysis and abstraction of temporal and spatial data, and workflows in the domain of hydrogeology and the design and development of an interactive visualization prototype. Developed in close collaboration with a group of hydrogeological researchers, the interface supports them in data exploration, selection of data for their numerical model calibration, and communication of findings to their industry partners. We highlight both pitfalls and learnings of the iterative design and validation process and explore the role of rapid prototyping. Some of the main lessons were that the ability to see their own data changed the engagement of skeptical users dramatically and that interactive rapid prototyping tools are thus powerful to unlock the advantage of visual analysis for novice users. Further, we observed that the process itself helped the domain scientists understand the potential and challenges of their data more than the final interface prototype.
 
   - title: A Little More About Me
     layout: text
