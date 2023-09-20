@@ -114,19 +114,19 @@ content:
           This design study presents an analysis and abstraction of temporal and spatial data, and workflows in the domain of hydrogeology and the design and development of an interactive visualization prototype. Developed in close collaboration with a group of hydrogeological researchers, the interface supports them in data exploration, selection of data for their numerical model calibration, and communication of findings to their industry partners. We highlight both pitfalls and learnings of the iterative design and validation process and explore the role of rapid prototyping. Some of the main lessons were that the ability to see their own data changed the engagement of skeptical users dramatically and that interactive rapid prototyping tools are thus powerful to unlock the advantage of visual analysis for novice users. Further, we observed that the process itself helped the domain scientists understand the potential and challenges of their data more than the final interface prototype.
 
   - title: Side Projects # Title for the section
-      layout: list # Type of content section (list/text)
-      content:
-        - layout: left
-          title: Vienna ClimateChallenge Hackathon
-          link:
-            https://blog.univie.ac.at/en/life-at-uni/hackathon-2022-the-vienna-climate-challenge-from-idea-to-prototype-in-three-days/
-          link_text: UniVienna Blogpost
-          quote: >
-            From Idea to Prototype in 3 Days.
-          description: | # this will include new lines to allow paragraphs
-            With our idea "Verkehr findet Stadt" my team won second place in the Vienna ClimateChallenge Hackathon by the University of Vienna. 
-            We got the chance to present it at the Vienna Digital Days 2023 and discuss the project with the City of Vienna.
-  
+    layout: list # Type of content section (list/text)
+    content:
+      - layout: left
+        title: Vienna ClimateChallenge Hackathon
+        link:
+          https://blog.univie.ac.at/en/life-at-uni/hackathon-2022-the-vienna-climate-challenge-from-idea-to-prototype-in-three-days/
+        link_text: UniVienna Blogpost
+        quote: >
+          From Idea to Prototype in 3 Days.
+        description: | # this will include new lines to allow paragraphs
+          With our idea "Verkehr findet Stadt" my team won second place in the Vienna ClimateChallenge Hackathon by the University of Vienna. 
+          We got the chance to present it at the Vienna Digital Days 2023 and discuss the project with the City of Vienna.
+
 
   - title: A Little More About Me
     layout: text
