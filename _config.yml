@@ -50,7 +50,7 @@ linkedin_username: laura-lotteraner
 about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
   Hi, I'm Laura, currently a research assistant at the University of Vienna. I have many professional interests, including <mark> sustainability </mark>, <mark> data visualization and storytelling </mark>,
-  <urban development> that I try to bring together in my various activities. At the moment, my focus is completing my PhD in data science at the University of Vienna, but who knows what will come next?
+  <mark>urban development</mark> that I try to bring together in my various activities. At the moment, my focus is completing my PhD in data science at the University of Vienna, but who knows what will come next?
   
 
 content:
@@ -131,7 +131,7 @@ content:
   - title: A Little More About Me
     layout: text
     content: | # this will include new lines to allow paragraphs
-      Other interests I have:
+      In my freetime I also have many different interests and hobbies. Some of them are
       - Yoga (practicing and teaching)
       - (Mountain) Hiking 
       - Reading
