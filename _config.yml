@@ -105,7 +105,7 @@ content:
     layout: list # Type of content section (list/text)
     content:
       - layout: left
-          title: Towards a better understanding of sorption of persistent and mobile contaminants to activated carbon. Applying data analysis techniques with experimental datasets of limited size
+          title: 'Towards a better understanding of sorption of persistent and mobile contaminants to activated carbon: Applying data analysis techniques with experimental datasets of limited size'
           link: https://doi.org/10.1016/j.watres.2024.123032
           link_text: Full Text
           caption: 2024
