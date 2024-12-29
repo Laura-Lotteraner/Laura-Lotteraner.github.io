@@ -101,8 +101,10 @@ content:
           Urban Futures Platform
         description: | # this will include new lines to allow paragraphs
       - layout: left
-        title: University of Vienna Postgraduate Center
+        title: University of Vienna
         caption: 2023 - 2025
+        quote: >
+          Postgraduate Center
         sub_title: University Course "Cooperative Regional and Urban Planning"
         description: | # this will include new lines to allow paragraphs
 
