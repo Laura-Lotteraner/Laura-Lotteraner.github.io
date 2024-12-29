@@ -1,8 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="3cd77a3d-cfde-4055-b4d1-f950ac5b2b04" name="Changes" comment="corrected typo">
+    <list default="true" id="3cd77a3d-cfde-4055-b4d1-f950ac5b2b04" name="Changes" comment="corrected indentation">
+      <change afterPath="$PROJECT_DIR$/images/profile.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/profile_old.jpg" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/_config.yml" beforeDir="false" afterPath="$PROJECT_DIR$/_config.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/profile.jpg" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -45,7 +48,7 @@
       <workItem from="1695208978188" duration="471000" />
       <workItem from="1695209548115" duration="1282000" />
       <workItem from="1697701790404" duration="80000" />
-      <workItem from="1735471766248" duration="982000" />
+      <workItem from="1735471766248" duration="1344000" />
     </task>
     <task id="LOCAL-00001" summary="intro &amp; work experience">
       <created>1695209375599</created>
@@ -103,7 +106,14 @@
       <option name="project" value="LOCAL" />
       <updated>1735472696980</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="corrected indentation">
+      <created>1735472765372</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1735472765372</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -128,6 +138,7 @@
     <MESSAGE value="new publication added" />
     <MESSAGE value="added link texts" />
     <MESSAGE value="corrected typo" />
-    <option name="LAST_COMMIT_MESSAGE" value="corrected typo" />
+    <MESSAGE value="corrected indentation" />
+    <option name="LAST_COMMIT_MESSAGE" value="corrected indentation" />
   </component>
 </project>

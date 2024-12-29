@@ -13,7 +13,7 @@ website: laura-lotteraner.github.io
 
 # Dark Mode (true/false/never)
 darkmode: false
-bg: turquoise
+bg: #a8ddb5
 
 # Social links
 twitter_username: laura_aus_wien
