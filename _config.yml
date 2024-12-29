@@ -95,10 +95,15 @@ content:
     content:
       - layout: left
         title: University of Vienna
-        caption: 2021 - Present
+        caption: 2021 - 2025
         sub_title: PhD Data Science
         quote: >
           Urban Futures Platform
+        description: | # this will include new lines to allow paragraphs
+      - layout: left
+        title: University of Vienna Postgraduate Center
+        caption: 2023 - 2025
+        sub_title: University Course "Cooperative Regional and Urban Planning"
         description: | # this will include new lines to allow paragraphs
 
   - title: Publications # Title for the section
