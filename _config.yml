@@ -105,6 +105,15 @@ content:
     layout: list # Type of content section (list/text)
     content:
       - layout: left
+          title: Towards a better understanding of sorption of persistent and mobile contaminants to activated carbon - Applying data analysis techniques with experimental datasets of limited size
+          link: https://doi.org/10.1016/j.watres.2024.123032
+          caption: 2024
+          sub_title: Water Research
+          quote: We demonstrate how tools such as distance correlation and clustering can be used effectively to identify the key parameters driving the sorption process.
+          description: | # this will include new lines to allow paragraphs
+            The complex sorption mechanisms of carbon adsorbents for the diverse group of persistent, mobile, and potentially toxic substances (PMs or PMTs) present significant challenges in understanding and predicting adsorption behavior. While the development of quantitative predictive tools for adsorbent design often relies on extensive training data, there is a notable lack of experimental sorption data for PMs accompanied by detailed sorbent characterization. Rather than focusing on predictive tool development, this study aims to elucidate the underlying mechanisms of sorption by applying data analysis methods to a high-quality dataset. This dataset includes more than 60 isotherms for 22 PM candidates and well-characterized high-surface-area activated carbon (AC) materials. We demonstrate how tools such as distance correlation and clustering can be used effectively to identify the key parameters driving the sorption process. Using these approaches, we found that aromaticity, followed by hydrophobicity, are key sorbate descriptors for sorption, overshadowing steric and charge effects for a given sorbent. Aromatic PMs, although classified as mobile contaminants based on their sorption to soil, are well adsorbed by AC as engineered adsorbent via π-π interactions. Non-aromatic and especially anionic compounds show much greater variability in sorption. The influence of ionic strength and natural organic matter on adsorption was considered. Our approach will help in the analysis of solute-sorption systems and in the development of new adsorbents beyond the specific examples presented here. In order to make the approach accessible, the code is freely available and described on GitHub (https://github.com/Laura-Lotteraner/PM-Sorption), following the FAIR data principles.
+
+      - layout: left
         title: The Challenge of Interdisciplinarity at the Intersection of Groundwater Management and Visualization Research
         link: https://ieeexplore.ieee.org/document/10241969
         caption: 2023

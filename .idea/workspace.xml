@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="3cd77a3d-cfde-4055-b4d1-f950ac5b2b04" name="Changes" comment="intro &amp; work experience">
+    <list default="true" id="3cd77a3d-cfde-4055-b4d1-f950ac5b2b04" name="Changes" comment="intro">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/_config.yml" beforeDir="false" afterPath="$PROJECT_DIR$/_config.yml" afterDir="false" />
     </list>
@@ -44,7 +44,9 @@
       <workItem from="1695121476759" duration="1151000" />
       <workItem from="1695125396934" duration="1014000" />
       <workItem from="1695208978188" duration="471000" />
-      <workItem from="1695209548115" duration="383000" />
+      <workItem from="1695209548115" duration="1282000" />
+      <workItem from="1697701790404" duration="80000" />
+      <workItem from="1735471766248" duration="253000" />
     </task>
     <task id="LOCAL-00001" summary="intro &amp; work experience">
       <created>1695209375599</created>
@@ -53,7 +55,28 @@
       <option name="project" value="LOCAL" />
       <updated>1695209375599</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="interests">
+      <created>1695209942240</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1695209942240</updated>
+    </task>
+    <task id="LOCAL-00003" summary="projects indent">
+      <created>1695210047782</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1695210047782</updated>
+    </task>
+    <task id="LOCAL-00004" summary="intro">
+      <created>1695210239816</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1695210239816</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -72,6 +95,9 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="intro &amp; work experience" />
-    <option name="LAST_COMMIT_MESSAGE" value="intro &amp; work experience" />
+    <MESSAGE value="interests" />
+    <MESSAGE value="projects indent" />
+    <MESSAGE value="intro" />
+    <option name="LAST_COMMIT_MESSAGE" value="intro" />
   </component>
 </project>
